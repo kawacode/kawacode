@@ -1,13 +1,10 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center">I'm conaticus, a programming enthusiast from the United Kingdom.</p>
+<p align="center">I'm Kawa, a programming enthusiast from Germany.</p>
 
 <p align="center">
-  <a href="https://github.com/SamTheFam?tab=followers">
+  <a href="https://github.com/KawaCode?tab=followers">
     <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="https://youtube.com/conaticus?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
   </a>
 </p>
 
