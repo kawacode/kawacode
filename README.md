@@ -25,4 +25,4 @@
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" /> SQL
 
 ## How to reach me?
-Business Enquiries: kawa.kareemi@outlook.de
+Email: kawa.kareemi@outlook.de
