@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KawaCode?tab=followers">
-    <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/KawaCode?style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 
